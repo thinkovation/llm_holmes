@@ -1,2 +1,4 @@
 # Always ignore .env files as they likely contain secrets
 .env
+myenv/
+storage/
